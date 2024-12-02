@@ -6,4 +6,4 @@ const ReadPage = () => {
     );
 }
 
-export default ReadPage;
+export default ReadPage; 
